@@ -1,0 +1,16 @@
+{
+  "dtaId": 1755158618252,
+  "channels": [
+    "https://11.112114.xyz/pp.xml",
+    "https://ghfast.top/raw.githubusercontent.com/chilinha/tv/main/unicom.m3u?ua=okHttp/Mod-1.0.0",
+    "https://ghfast.top/raw.githubusercontent.com/chilinha/tv/main/mobile.m3u?ua=okHttp/Mod-1.0.0"
+  ],
+  "dataValueProxy": "1",
+  "timeoutSwitchLine": "5",
+  "leftRightSelect": true,
+  "fontScale": "1",
+  "appFontFamily": "{\"id\":\"0\",\"font_name\":\"系统\",\"font_key\":\"system\",\"font_type\":\"ttf\"}",
+  "bingBg": true,
+  "autoUpdate": false,
+  "lightVersionCheck": true
+}
