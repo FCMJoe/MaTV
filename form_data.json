@@ -1,8 +1,7 @@
 {
-  "dtaId": 1755159166911,
+  "dtaId": 1755192231103,
   "channels": [
     "https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u?ua=okHttp/Mod-1.0.0",
-    "https://ghfast.top/raw.githubusercontent.com/chilinha/tv/main/unicom.m3u?ua=okHttp/Mod-1.0.0",
     "https://ghfast.top/raw.githubusercontent.com/chilinha/tv/main/mobile.m3u?ua=okHttp/Mod-1.0.0"
   ],
   "dataValueProxy": "1",
